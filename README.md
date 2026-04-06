@@ -124,7 +124,7 @@ AI-based audio processing and visualization platform
 ## 📫 Let's Connect!
 
 - 📧 Email: chahat.gcp.jam.atria@gmail.com  
-- 💼 LinkedIn:
+- 💼 LinkedIn: https://www.linkedin.com/in/chahat-jain-676052327?utm_source=share_via&utm_content=profile&utm_medium=member_android
   
 
 ---
