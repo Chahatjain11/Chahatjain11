@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chahat Jain
 
-<h3 align="center">AI/ML Undergraduate | Backend + LLM Engineer 🤖</h3>
+<h3 align="center">AI/ML Undergraduate | SOFTWARE Engineer 🤖</h3>
 
 <p align="center">
   <a href="mailto:chahat.jain.in@gmail.com">
